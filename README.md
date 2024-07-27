@@ -1,8 +1,9 @@
-<h2>Hello, I’m Alexandru-Cristian Enescu</h2>
+<h2>Welcome! I’m Alexandru-Cristian Enescu</h2>
 
-<h4>Business & IT student at University of Twente 👨🏻‍🎓 | Aspiring Front-End Developer 💻</h4>
+<h3>Business & IT student at University of Twente</h3>
 
-<h5>Skills</h5>
-- Java
-- Python
-- HTML, CSS & JavaScript
+<h4>Skills</h4>
+- Java<br>
+- Python<br>
+- HTML, CSS & JavaScript<br>
+- SQL
