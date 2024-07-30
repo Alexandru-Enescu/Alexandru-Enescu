@@ -1,6 +1,4 @@
-<h2>Welcome! I’m Alexandru-Cristian Enescu</h2>
-
-<h3>Business & IT student at University of Twente</h3>
+<h2>Welcome! I’m Alexandru Enescu</h2>
 
 <h4>Skills</h4>
 - Java<br>
